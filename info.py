@@ -65,8 +65,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telefilter')
 
 # ─── Shortlink & Other Settings ─────────────────────────
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'adlinkfly.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'af77f68713ff5ec1e9e7ahsuskaqkcc29e85ceb855a')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'tinyurl.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'aRArAYUlqHbRchhBT9BvykSzCQfLf8FGkfnuVrdUMqpz2gEGTu1BaGNnN4lI')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 
@@ -74,18 +74,18 @@ MAX_B_TN = environ.get("MAX_B_TN", "10")
 MAX_BTN = is_enabled(environ.get('MAX_BTN', "True"), True)
 PORT = environ.get("PORT", "8080")
 
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/ur_movie_group')
-SPRT_CHNL = environ.get('SPRT_CHNL', 'https://t.me/kissuxbots')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/kissuxbots')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/moviedisscussiong')
+SPRT_CHNL = environ.get('SPRT_CHNL', 'https://t.me/dgbchjnc')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/allmovies9090)
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/bot_making_tips')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
-HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/kissuxbots')
-MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : 𓆩•𝐊𝐢𝐬𝐬𝐮💞•𓆪')
+HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/moviedisscussiong')
+MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : 𓆩•ꪗꪖᦔꪖꪜ🫶❣️•𓆪')
 
 
 # ─── Display Configurations ─────────────────────────────
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ""))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'kissuhelp')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'moviedisscussiong')
 
 P_TTI_SHOW_OFF = is_enabled(environ.get('P_TTI_SHOW_OFF', "True"), True)
 IMDB = is_enabled(environ.get('IMDB', "True"), False)

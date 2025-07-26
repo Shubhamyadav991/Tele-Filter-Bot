@@ -1,6 +1,6 @@
 # Please [Star](https://github.com/pykinsu/tele-filter-bot/) This Repository and [Follow Me](https://github.com/pykinsu/)
 
-## check bot [sanya movies bot](https://t.me/sanyamoviesbot/)
+## check bot [mMovie_Search_Bot](https://t.me/mMovie_Search_Bot)
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.

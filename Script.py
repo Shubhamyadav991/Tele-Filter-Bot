@@ -3,14 +3,14 @@ class script(object):
     START_TXT = """<b>
 Hello {},<br>
 Mʏ ɴᴀᴍᴇ ɪs <a href="https://t.me/{}">{}</a>. I ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs – ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀs ᴀɴ ᴀᴅᴍɪɴ ᴀɴᴅ ᴇɴᴊᴏʏ! 😍<br>
-<blockquote>Mᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ <a href="https://t.me/kissuxbots">@kissuxbots</a></blockquote>
+<blockquote>Mᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ <a href="https://t.me/allmovies9090">@allmovies9090</a></blockquote>
 </b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>• Mʏ Nᴀᴍᴇ: {}
-• Oᴡɴᴇʀ : <a href="https://t.me/kissuhelp">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a>
+• Oᴡɴᴇʀ : <a href="https://t.me/moviedisscussiong">𓆩•ꪗꪖᦔꪖꪜ 🫶❣️•𓆪</a>
 • Lɪʙʀᴀʀʏ: <a href='docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 • Lᴀɴɢᴜᴀɢᴇ: <a href='www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 • DᴀᴛᴀBᴀsᴇ: <a href='www.mongodb.com'>MᴏɴɢᴏDB</a></b>"""
@@ -35,7 +35,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/kissuxbots)</code>
+<code>[Button Text](buttonurl:https://t.me/allmovies9090)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -146,7 +146,7 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ 😊, Cʜᴏᴏsᴇ Tʜᴇ Cᴏʀʀᴇᴄᴛ Oɴᴇ Bᴇʟ
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>─────「<a href=https://t.me/kissuxbots> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」─────
+<b>─────「<a href=https://t.me/allmovies9090> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」─────
 
 Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -156,7 +156,7 @@ sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢ
 
 sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://gblinks.com/>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
 
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https='t.me/kissuhelp/7> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
+sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/moviedisscussiong/7> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
 
 ➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
 
@@ -198,7 +198,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b><a href=https://t.me/kissuxbots>{file_caption}</a></b>""" 
+<b><a href=https://t.me/allmovies9090>{file_caption}</a></b>""" 
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
@@ -245,8 +245,8 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
     OWNER_INFO = """
 <b> ⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟<br>
-◈ ꜰᴜʟʟ ɴᴀᴍᴇ : <a href="https://t.me/kissuhelp">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a><br>
-◈ ʜᴇʀᴇ ɪs ᴘᴜʙʟɪᴄ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴀɴᴅ ɪɴsᴛʀᴜᴄᴛɪᴏɴs — ᴛᴀᴘ ʙᴇʟᴏᴡ ᴏʀ <a href="https://github.com/pykinsu/tele-filter-bot">ʜᴇʀᴇ</a> ᴛᴏ sᴇᴇ.
+◈ ꜰᴜʟʟ ɴᴀᴍᴇ : <a href="https://t.me/moviedisscussiong">𓆩•ꪗꪖᦔꪖꪜ 🫶❣️•𓆪</a><br>
+◈ ʜᴇʀᴇ ɪs ᴘᴜʙʟɪᴄ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴀɴᴅ ɪɴsᴛʀᴜᴄᴛɪᴏɴs — ᴛᴀᴘ ʙᴇʟᴏᴡ ᴏʀ <a href="https://github.com/Shubhamyadav991/tele-filter-bot">ʜᴇʀᴇ</a> ᴛᴏ sᴇᴇ.
 </b>"""
 
     DISL_TXT = """
@@ -257,7 +257,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ɪᴛ ɪꜱ ꜰᴏʀʙɪᴅᴅᴇɴ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ꜱᴛʀᴇᴀᴍ, ʀᴇᴘʀᴏᴅᴜᴄᴇ, ꜱʜᴀʀᴇ, ᴏʀ ᴄᴏɴꜱᴜᴍᴇ ᴄᴏɴᴛᴇɴᴛ ᴡɪᴛʜᴏᴜᴛ ᴇxᴘʟɪᴄɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ ᴄʀᴇᴀᴛᴏʀ ᴏʀ ᴄᴏᴘʏʀɪɢʜᴛ ʜᴏʟᴅᴇʀ.<br><br>
 ɪꜰ ʏᴏᴜ ʙᴇʟɪᴇᴠᴇ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴠɪᴏʟᴀᴛɪɴɢ ʏᴏᴜʀ ɪɴᴛᴇʟʟᴇᴄᴛᴜᴀʟ ᴘʀᴏᴘᴇʀᴛʏ, ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ʀᴇꜱᴘᴇᴄᴛɪᴠᴇ ᴄʜᴀɴɴᴇʟꜱ ꜰᴏʀ ʀᴇᴍᴏᴠᴀʟ.<br><br>
 ᴛʜᴇ ʙᴏᴛ ᴅᴏᴇꜱ ɴᴏᴛ ᴏᴡɴ ᴀɴʏ ᴏꜰ ᴛʜᴇꜱᴇ ᴄᴏɴᴛᴇɴᴛꜱ — ɪᴛ ᴏɴʟʏ ɪɴᴅᴇxᴇꜱ ꜰɪʟᴇꜱ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ.<br><br>
-🔗 <a href="https://github.com/pykinsu/tele-filter-bot">View Public Source Code</a>
+🔗 <a href="https://github.com/Shubhamyadav991/tele-filter-bot">View Public Source Code</a>
 </b>
 """
 
@@ -290,8 +290,8 @@ To Get Sticker ID
 𝖤𝗑𝖺𝗆𝗉𝗅𝖾 :- <code>/country India</code>"""
 
     SOURCE_TXT = """<b>
-✭ ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ <a href="https://t.me/kissuhelp">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a><br>
-✭ ʜᴇʀᴇ ɪs ᴘᴜʙʟɪᴄ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴀɴᴅ ɪɴsᴛʀᴜᴄᴛɪᴏɴs — ᴛᴀᴘ ʙᴇʟᴏᴡ ᴏʀ <a href="https://github.com/pykinsu/tele-filter-bot">ʜᴇʀᴇ</a> ᴛᴏ sᴇᴇ.
+✭ ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ <a href="https://t.me/moviedisscussiong">𓆩•ꪗꪖᦔꪖꪜ 🫶❣️•𓆪</a><br>
+✭ ʜᴇʀᴇ ɪs ᴘᴜʙʟɪᴄ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴀɴᴅ ɪɴsᴛʀᴜᴄᴛɪᴏɴs — ᴛᴀᴘ ʙᴇʟᴏᴡ ᴏʀ <a href="https://github.com/Shubhamyadav991/tele-filter-bot">ʜᴇʀᴇ</a> ᴛᴏ sᴇᴇ.
 </b>
 """
 
